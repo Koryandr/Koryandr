@@ -1,16 +1,29 @@
-## Hi there 👋
+# Кори — Kory 👋
 
-<!--
-**Koryandr/Koryandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Превращаю идеи в код, а код — в реальность.**
+На пути становления как *software engineer* — строю то, что останется.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Kori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koryandr&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koryandr&layout=compact&theme=default)
+
+---
+
+## Обо мне
+
+* Aspiring **Software Engineer**. Делаю шаги каждый день.
+* Люблю игры, код и честный прогресс.
+* Стараюсь стать лучше.
+
+## Навыки
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Git` · `GitHub`
+
+## Над чем работаю
+
+* Портфолио/сайт-визитка.
+* Учусь API и практическим проектам.
+* Проекты/демки — скоро появятся в разделе репозиториев.
