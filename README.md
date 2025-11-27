@@ -1,14 +1,17 @@
 # Kory 👋
 
-**Превращаю идеи в код, а код — в реальность.**
-На пути становления как *software engineer* — строю то, что останется.
+### Code, coffee, repeat | Turning ideas into reality one commit at a time
 
----
+#####  I am software engineer
+Turning ideas into code, and code into reality. On a journey to grow as a software engineer and build something that lasts.
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koryandr&theme=merko)
 
-![Kori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koryandr&show_icons=true&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koryandr&theme=merko&utcOffset=8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koryandr&layout=compact&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koryandr&theme=merko)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Koryandr)  
 
 ---
 
@@ -21,9 +24,3 @@
 ## Навыки
 
 `HTML` · `CSS` · `JavaScript` · `React` · `Git` · `GitHub`
-
-## Над чем работаю
-
-* Портфолио/сайт-визитка.
-* Учусь API и практическим проектам.
-* Проекты/демки — скоро появятся в разделе репозиториев.
