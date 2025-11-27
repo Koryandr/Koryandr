@@ -11,7 +11,6 @@ Turning ideas into code, and code into reality. On a journey to grow as a softwa
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koryandr&theme=merko)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Koryandr)  
 
 ---
 
@@ -24,3 +23,5 @@ Turning ideas into code, and code into reality. On a journey to grow as a softwa
 ## Skills
 
 `HTML` · `CSS` · `JavaScript` · `React` · `Git` · `GitHub`
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Koryandr)  
