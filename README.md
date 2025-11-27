@@ -1,8 +1,8 @@
-# Kory 👋
+# Name is Kory
 
 ### Code, coffee, repeat | Turning ideas into reality one commit at a time
 
-#####  I am software engineer
+####  I am software engineer
 Turning ideas into code, and code into reality. On a journey to grow as a software engineer and build something that lasts.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koryandr&theme=merko)
@@ -15,12 +15,12 @@ Turning ideas into code, and code into reality. On a journey to grow as a softwa
 
 ---
 
-## Обо мне
+## About me
 
-* Aspiring **Software Engineer**. Делаю шаги каждый день.
-* Люблю игры, код и честный прогресс.
-* Стараюсь стать лучше.
+* Aspiring **Software Engineer**. Taking steps every day.
+* I love games, code, and honest progress.
+* I'm trying to become better.
 
-## Навыки
+## Skills
 
 `HTML` · `CSS` · `JavaScript` · `React` · `Git` · `GitHub`
