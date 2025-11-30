@@ -13,7 +13,7 @@ Turning ideas into code, and code into reality. On a journey to grow as a softwa
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koryandr&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Koryand&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 ---
