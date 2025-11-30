@@ -1,9 +1,11 @@
 # Name is Korgan
-
+---
 ### Code, coffee, repeat | Turning ideas into reality one commit at a time
 
 ####  I try to build stuff
 Turning ideas into code, and code into reality. On a journey to grow as a software engineer and build something that lasts.
+---
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koryandr&theme=merko)
 
