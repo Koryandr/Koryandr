@@ -11,6 +11,7 @@ Turning ideas into code, and code into reality. On a journey to grow as a softwa
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koryandr&theme=merko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koryandr&layout=compact&theme=default)
 
 ---
 
