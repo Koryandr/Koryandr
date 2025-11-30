@@ -7,11 +7,13 @@ Turning ideas into code, and code into reality. On a journey to grow as a softwa
 ---
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koryandr&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koryandr&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koryandr&theme=merko&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koryandr&theme=dark&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koryandr&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koryandr&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Koryand&theme=dark)](https://git.io/streak-stats)
 
 
 ---
