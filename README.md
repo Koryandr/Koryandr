@@ -2,7 +2,6 @@
 
 ### Code, coffee, repeat | Turning ideas into reality one commit at a time
 
-####  I try to build stuff
 Turning ideas into code, and code into reality. On a journey to grow as a software engineer and build something that lasts.
 ---
 
@@ -26,6 +25,6 @@ Turning ideas into code, and code into reality. On a journey to grow as a softwa
 
 ## Skills
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Git` · `GitHub`
+`HTML` · `CSS` · `Tailwind` · `JavaScript` · `TypeScript` · `React` · `Git` · `GitHub`
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Koryandr)  
