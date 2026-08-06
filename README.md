@@ -1,11 +1,3 @@
-# Name is Korgan
-
-### Code, coffee, repeat | Turning ideas into reality one commit at a time
-
-Turning ideas into code, and code into reality. On a journey to grow as a software engineer and build something that lasts.
----
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koryandr&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koryandr&theme=dark&utcOffset=8)
@@ -20,8 +12,8 @@ Turning ideas into code, and code into reality. On a journey to grow as a softwa
 ## About me
 
 * Aspiring **Software Engineer**. Taking steps every day.
-* I love games, code, and honest progress.
-* I'm trying to become better.
+* Fullstack Developer from Kazakhstan.
+* Interested in web development, system design and B2B products.
 
 ## Skills
 
