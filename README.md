@@ -1,16 +1,12 @@
 ## About me
 
-* Aspiring **Software Engineer**. Taking steps every day.
+* Aspiring **Software Engineer**.
 * Fullstack Developer from Kazakhstan.
 * Interested in web development, system design and B2B products.
 
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koryandr&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koryandr&theme=dark&utcOffset=8)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koryandr&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Koryandr&theme=dark)](https://git.io/streak-stats)
 
